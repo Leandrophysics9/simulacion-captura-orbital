@@ -32,10 +32,10 @@ El proyecto utiliza **Matplotlib** para generar dos visualizaciones clave:
 
 ### Animación de la Trayectoria
 Se generó una simulación en 2D donde se evidencia el acercamiento, el frenado en el periastro y el establecimiento de una órbita altamente excéntrica.
-`![Animación de la órbita](imagenes/animacion_orbita.png)`
+![Animación de la órbita](imagenes/animacion_orbita.png)
 
 ### Análisis de Energía (Conservación)
-`![Gráfica de Energía](imagenes/grafica_energia.png)`
+![Gráfica de Energía](imagenes/grafica_energia.png)
 
 **Interpretación de la gráfica:**
 1. **Antes del frenado:** La Energía Mecánica Total (línea roja) se mantiene constante y por encima de cero, indicando una trayectoria de escape.
