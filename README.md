@@ -32,7 +32,7 @@ El proyecto utiliza **Matplotlib** para generar dos visualizaciones clave:
 
 ### Animación de la Trayectoria
 Se generó una simulación en 2D donde se evidencia el acercamiento, el frenado en el periastro y el establecimiento de una órbita altamente excéntrica.
-![Animación de la órbita](imagenes/animacion_orbita.png)
+![Animación de la órbita](imagenes/animacion_orbita.gif)
 
 ### Análisis de Energía (Conservación)
 ![Gráfica de Energía](imagenes/grafica_energia.png)
