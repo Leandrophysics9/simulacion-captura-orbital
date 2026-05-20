@@ -3,7 +3,7 @@ Simulación computacional en Python de una captura orbital mediante frenado en e
 # Simulación Computacional de Captura Orbital 🚀🪐
 
 **Proyecto Final de Programación**
-* **Autor:** [Tu Nombre]
+* **Autor:** [Jhon Leandro Duque]
 * **Ruta elegida:** Ruta 1 (Proyecto Computacional)
 * **Lenguaje:** Python
 
