@@ -3,7 +3,7 @@ Simulación computacional en Python de una captura orbital mediante frenado en e
 # Simulación Computacional de Captura Orbital 🚀🪐
 
 **Proyecto Final de Programación**
-* **Autor:** [Jhon Leandro Duque]
+* **Autor:** [Jhon Leandro Duque Pineda]
 * **Ruta elegida:** Ruta 1 (Proyecto Computacional)
 * **Lenguaje:** Python
 
@@ -32,11 +32,9 @@ El proyecto utiliza **Matplotlib** para generar dos visualizaciones clave:
 
 ### Animación de la Trayectoria
 Se generó una simulación en 2D donde se evidencia el acercamiento, el frenado en el periastro y el establecimiento de una órbita altamente excéntrica.
-*(Nota: Aquí puedes subir tu captura de pantalla de la animación)*
 `![Animación de la órbita](imagenes/animacion_orbita.png)`
 
 ### Análisis de Energía (Conservación)
-*(Nota: Aquí subes la captura de tu gráfica de energía)*
 `![Gráfica de Energía](imagenes/grafica_energia.png)`
 
 **Interpretación de la gráfica:**
